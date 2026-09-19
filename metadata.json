@@ -1,0 +1,6 @@
+{
+  "name": "Blooming Words - Speech & Language Therapy",
+  "description": "Personalized speech and language therapy by Ashna Jahan, Speech & Language Therapist. Helping children, teens, and adults communicate with confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
